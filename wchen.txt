@@ -22,3 +22,4 @@ edit by me self
 Estoy editando este archivo.
 666
 >>>>>>> 64273de8534b1e241741ecb0d288af87151a0dd0
+a la persona que ha posat aquests números: Que són?
